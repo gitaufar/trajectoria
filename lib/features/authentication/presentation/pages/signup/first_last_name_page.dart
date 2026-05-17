@@ -68,7 +68,7 @@ class _FirstLastNamePageState extends State<FirstLastNamePage> {
                     decoration: BoxDecoration(
                       color: Colors.black,
                       borderRadius: BorderRadius.only(
-                        topLeft: Radius.circular(4.0),
+                        topLeft: Radius.circular(5.0),
                         bottomLeft: Radius.circular(4.0),
                       ),
                     ),
