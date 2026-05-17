@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:trajectoria/common/widgets/textField/auth_text_field.dart';
+import 'package:trajectoria/common/widgets/textfield/auth_text_field.dart';
 
 void main() {
   testWidgets('AppTextField toggles password visibility', (tester) async {
